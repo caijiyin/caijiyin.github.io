@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'goofish shop', // Usually your GitHub org/user name.
-  projectName: 'docusaurus3', // Usually your repo name.
+  organizationName: 'caijiyin', // Usually your GitHub org/user name.
+  projectName: 'caijiyin', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
