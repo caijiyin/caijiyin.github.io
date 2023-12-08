@@ -1,9 +1,1 @@
----
-slug: long-blog-post
-title: Long Blog Post
-
----
-
-
-
-# blog
+#the first blog
